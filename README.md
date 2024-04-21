@@ -2,8 +2,7 @@
  The project has implemented ADGCN.
 Author: Jijie Han
 Institution: Beijing Electronic Science and Technology Institute
-Contact: 3427525467@qq.com
-
+Contact: hseason1019@gmail.com
 To run this code, you need PyTorch along with the following dependencies: torch-cluster, torch-geometric, torch-scatter, and torch-sparse.
 
 This code implements the ADGCN method, using the USTC-TFC2016 and ISCX-VPN-NonVPN-2016 datasets.
